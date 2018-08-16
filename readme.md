@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://nschloe.github.io/meshio/meshio_logo.png" width="20%">
+  <img src="https://github.com/CosmicScholar/PosterFile/blob/master/coupled.png" width="20%">
 </p>
